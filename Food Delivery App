@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>DPS Resto</title>
+    <meta name="description" content="...choose the best">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <button>
+            <span>
+                Enter Delivery Address
+            </span>
+        </button>
+        <button>
+            Login/ Signup
+        </button>
+    </header>
+       <nav class="navigation">
+        <a href="" class="logo">
+          <span></span>DPS Resto e-commerce
+        </a>
+        <input type="checkbox" class="menu-btn" id="menu-btn">
+        <label for="menu-btn" class="menu-icon">
+          <span class="nav-icon"></span>
+        </label>
+        <ul class="menu">
+          <li><a href="" class="active">Home</a></li>
+          <li><a href="">Categories</a></li>
+          <li><a href="">MENU</a></li>
+          <li><a href="">Our App</a></li>
+        </ul>
+    </header>
+    <section>
+      <img src="jpg" class="img-fluid" alt="">
+    </section>
+    <div class="text-center">
+      <h2>ON PROMO</h2>
+    </div>
+    <section>
+       <p>Grilled salmon</p>
+       <img src="png" class="img-fluid" alt="">
+       <button class="form-button">Order Now</button>
+       <p>italian Gulash</p>
+       <img src="png" class="img-fluid" alt="">
+       <button class="form-button">Order Now</button>
+       <p>Mojito</p>
+       <img src="png" class="img-fluid" alt="">
+       <button class="form-button">Order Now</button>
+    </section>  
+    <section class="my-16">
+        <div class="text-center">
+          <h2>Categories</h2>
+        </div>
+        <div class="items-center">
+        <img alt="">
+            <h3 class="text-center">
+                Burgers
+            </h3>
+            </div>
+        <div class="items-center">
+        <img alt="category">
+            <h3 class="text-center">
+                    Pizza
+                    
+            </h3>
+            </div>
+        <div class="items-center">
+        <img alt="category">
+            <h3 class="text-center">
+                    Drinks
+            </h3>
+            </div>
+        <div class="items-center">
+        <img alt="category">
+                <h3 class="text-center">
+                    Sushi
+                </h3>
+            </div>
+        <div class="items-center">
+        <img alt="category">
+                <h3 class="text-center">
+                    Fast Food
+                </h3>
+            </div>
+        <div class="items-center">
+        <img alt="category">
+                 <h3 class="text-center">
+                    Chicken
+                </h3>
+            </div>
+        <div class="items-center">
+        <img alt="">
+                <h3 class="text-center">
+                    Pasta
+                    
+                 </h3>
+                </div>          
+          <span>All</span>
+        
+        <div class="items-center">
+            <img alt="">
+            <h3 class="text-center">
+                Vegan
+                
+                </h3>
+                </div>
+
+        <div class="categories-heading">
+    <section>
+       <div class="text-center">
+        <h2>Menu</h2>
+        
+    </div>
+    </section>
+    <footer>
+        <div >
+            <h2 class="font-semibold">ABOUT</h2>
+            <a href="contact-us">Contact us</a>
+            <a href="/help">Help Center</a>
+            <a href="/faq">FAQ</a>
+        </div>
+        <h4 class="font-semibold">HELP & GUIDE</h4>
+        <a href="/terms-of-use">Terms Of Use</a>
+        <a href="/terms-of-use">Privacy Policy</a>
+        <a href="/terms-of-use">Shipping & Delivery</a>
+    </div>
+    <section>
+        <p>
+            
+            2024
+            
+            DPS Resto (Pty) Ltd
+            </p>
+    </section>
+    </footer>
+
+</body>
+</html>
